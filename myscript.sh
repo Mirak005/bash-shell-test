@@ -4,6 +4,7 @@
 echo "Please add your commit messagees " 
 read  
 echo $REPLY 
+cd $PWD
 
 git add . 
 
